@@ -30,10 +30,8 @@ Mama vault is a utility management application for pregnant women. It helps you 
 
 ![image](https://user-images.githubusercontent.com/93156825/221397886-8e7d3ad0-03a8-4689-b270-7a2e4debf3de.png)
 
-----------
 
-+ ### We also do have a web application, one with the links will be redirected to this webpage and can see the documents shared by the user on a well-structured dashboard.
-![image](https://user-images.githubusercontent.com/93156825/221398857-43dd4867-07a7-45d5-84d2-12d92c73581c.png)
+
 
 --------
 
