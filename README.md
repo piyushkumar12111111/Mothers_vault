@@ -12,7 +12,7 @@ Mama Vault is a utility management application for pregnant women. It helps you 
 
 ![image](https://user-images.githubusercontent.com/93156825/221395164-c7fedf4e-d107-4b88-b42d-5ab232aedbfc.png)
 
-+ ## A personalized user dashboard is provided where a user can add their personal as well as medical records
++ ## A personalized user dashboard is provided where a user can add their personal as well as medical record
 
 ![image](https://user-images.githubusercontent.com/93156825/221397175-1f325f26-b80d-4eab-a6f8-253eb8b848ac.png)
 
