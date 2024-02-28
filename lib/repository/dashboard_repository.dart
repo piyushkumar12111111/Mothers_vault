@@ -9,7 +9,7 @@ class DashboardRepository {
   Future<dynamic> getTimeline(String alldocs) async {
     try {
       dynamic response = await _apiServices
-          .postApiResponse(AppUrl.getTimeline, {"documents": alldocs});
+          .postApiResponse(AppUrl.getTimeline,  {"documents": alldocs});
       return response;
     } catch (e) {
       debugPrint(e.toString());
