@@ -53,7 +53,7 @@ class _ProfileState extends State<Profile> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [
                           Text(
-                            "Profile",
+                            "Profile ",
                             style: TextStyle(
                               fontSize: 32,
                               fontFamily: GoogleFonts.poppins(
