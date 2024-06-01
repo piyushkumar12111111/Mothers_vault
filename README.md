@@ -2,7 +2,7 @@
 ## What is Mama Vault? 🤔
 Mama Vault is a utility management application for pregnant women. It helps you manage your documents, reach your caring ones in one tap, and keep your memories safe.
 
-
+ 
 ## Tech Stack 💻
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Twilio](https://img.shields.io/badge/twilio-%23000000.svg?style=for-the-badge&logo=twilio&logoColor=red)
 
